@@ -49,7 +49,10 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "malformed_courtyard|85890000|34250000|00000000-0000-0000-0000-000062c309d2|00000000-0000-0000-0000-000000000000",
+        "malformed_courtyard|96090000|34250000|00000000-0000-0000-0000-000062c309d2|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
