@@ -70,19 +70,6 @@
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "shitpad.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 208,
-          "pos_y": 114,
-          "size_x": 640,
-          "size_y": 597
-        }
-      }
-    ]
+    "files": []
   }
 }
